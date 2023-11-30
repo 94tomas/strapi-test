@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_sub_subscribetes",
+  "info": {
+    "displayName": "Subscribete",
+    "icon": "cube"
+  },
+  "options": {},
+  "attributes": {
+    "Email": {
+      "type": "string",
+      "unique": true,
+      "required": true
+    }
+  }
+}
